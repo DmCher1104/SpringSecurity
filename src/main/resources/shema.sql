@@ -17,7 +17,6 @@ CREATE TABLE IF NOT EXISTS `wiki`.`t_user` (
   `password_confirm` VARCHAR(256) NOT NULL,
   PRIMARY KEY (`id`))
 
-
 -- -----------------------------------------------------
 -- Table `wiki`.`user_x_role`
 -- -----------------------------------------------------
